@@ -1,3 +1,4 @@
+//Author: Israel N. Gbati
 /*
 #define ECHO (1U<<6) //PB6 
 #define TRIGGER		(1U<<4) //PA4(OUTPUT)
