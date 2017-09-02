@@ -1,3 +1,4 @@
+;Israel N. Gbati
 ;lights.s
 ;Function to initial pins for LEDS
 SYSCTL_RCGCGPIO_R  EQU 0x400FE608
