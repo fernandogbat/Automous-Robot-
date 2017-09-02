@@ -1,4 +1,4 @@
-Author : Israel N. Gbati
+;Author : Israel N. Gbati
 ;motors.s 
 ;Function to initialize motor pins
 
