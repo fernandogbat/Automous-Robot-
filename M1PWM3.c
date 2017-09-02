@@ -1,3 +1,5 @@
+// Author: Israel N. Gbati
+
 #include "TM4C123GH6PM.H"
 
 void PE5_PWM_init
