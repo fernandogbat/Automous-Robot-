@@ -1,3 +1,4 @@
+//Author : Israel N. Gbati
 #include "TM4C123GH6PM.h"
 void delayMs(int n);
 void servo_init()
