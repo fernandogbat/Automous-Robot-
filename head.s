@@ -1,3 +1,4 @@
+;Author : Israel N. Gbati
 ;head.s
 ;Function to initialize trigger pin of ultrasonic
 ;(head) sensor
